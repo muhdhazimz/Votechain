@@ -14,7 +14,7 @@ This project is a simple implementation of a voting system done to understand th
 
 ### Step 1. Clone the project
 
-```git clone https://github.com/muhdhazimz/voting-dapp-main```
+```git clone https://github.com/muhdhazimz/Votechain```
 
 ### Step 2. Start Ganache
 
