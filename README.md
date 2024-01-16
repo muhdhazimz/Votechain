@@ -1,7 +1,7 @@
 # Decentralized Voting dApp
 
-##INFO 4312
-##BLOCKCHAIN AND APPLICATION
+## INFO 4312
+## BLOCKCHAIN AND APPLICATION
 
 This project is blockchain based voting dapp created in React and Solidity.
 
