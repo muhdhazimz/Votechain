@@ -34,10 +34,21 @@ We must migrate the election smart contract each time restart ganache.
 
 ### Step 5. Run the Front End Application
 
+Make sure to have the scripts shown below in the package.json file’s script section:
+
+```
+"scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+```
+
 ```powershell
 cd .\client
-yarn add react-scripts
 yarn install
+yarn add react-scripts
 yarn run
 start
 ```
